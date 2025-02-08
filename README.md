@@ -1,8 +1,5 @@
 # UNO Game
 
-## Overview
-This project is a Java-based implementation of the popular card game **UNO**, developed using Object-Oriented Programming (OOP) principles. The game allows multiple players to take turns, play cards based on the game rules, and determine a winner.
-
 ## Authors
 **Sepideh Pourshirazi**  
 
